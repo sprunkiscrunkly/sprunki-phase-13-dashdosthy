@@ -1,6 +1,6 @@
 # Sprunki Phase 13 Dashdoshty
 
-![Sprunki Phase 13 Dashdoshty](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-phase-13-dashdosthy/refs/heads/main/sprunki-phase-13-dashdosthy.png "Sprunki Phase 13 Dashdoshty")
+![Sprunki Phase 13 Dashdoshty](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-phase-13-dashdosthy/refs/heads/main/sprunki-phase-13-dashdoshty.png "Sprunki Phase 13 Dashdoshty")
 
 👉👉 Click to play，1st Version: [Sprunki Phase 13 Dashdoshty](https://sprunksters.com/sprunki-phase-13-dashdoshty/ "Sprunki Phase 13 Dashdoshty")
 
